@@ -14,9 +14,10 @@ O projeto integra:
 ## Estrutura do repositório
 
 ```
-├── ignition_zero.ipynb          # Notebook com todo o desenvolvimento do projeto
-├── fluxograma-verificacao.png   # Imagem do fluxograma do algoritmo de verificação
-└── README.md                    # Este arquivo
+├── projeto/                        # Arquivos do projeto
+│   ├── ignition_zero.ipynb         # Notebook com todo o desenvolvimento
+│   └── fluxograma-verificacao.png  # Fluxograma do algoritmo de verificação
+└── README.md                       # Este arquivo            
 ```
 
 ## Como executar
