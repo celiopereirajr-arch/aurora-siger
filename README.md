@@ -22,8 +22,8 @@ O projeto integra:
 
 ## Como executar
 
-1. Baixe ou clone este repositório, mantendo o notebook e a imagem `fluxograma-verificacao.png` na **mesma pasta**.
-2. Abra o arquivo `ignition_zero.ipynb` no [Google Colab](https://colab.research.google.com/) ou em um ambiente Jupyter.
+1. Baixe ou clone este repositório, mantendo o notebook e a imagem `fluxograma-verificacao.png` na `projeto/`.
+2. Abra o arquivo `projeto/ignition_zero.ipynb` no [Google Colab](https://colab.research.google.com/) ou em um ambiente Jupyter.
 3. Se for usar o Colab, faça upload de `fluxograma-verificacao.png` na sessão (ícone de pasta → upload) antes de rodar a célula responsável por exibi-la. Sem isso, a célula simplesmente exibe um aviso informando onde encontrar a figura, sem quebrar a execução das demais células.
 4. Rode as células em sequência (Ambiente de execução → Executar tudo). Não há dependências externas; o projeto utiliza apenas a biblioteca padrão do Python.
 
